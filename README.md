@@ -4,7 +4,7 @@
 
 ### Component Description
 - [Data](data): All data, including crash infromation from Polk and Scott Counties
-- [Figures](bot.py): Car crash spatial distribution maps and temporal distribution heatmaps
-- [Reports](post_parser.py): Final report and presentation.
-- [Code](post_filter.py): Code for producing heatmaps.
-- [ArcGIS Project](post_tracker.py): Project used for creating maps.
+- [Figures](figures): Car crash spatial distribution maps and temporal distribution heatmaps
+- [Reports](Reports): Final report and presentation.
+- [Code](sompy): Code for producing heatmaps.
+- [ArcGIS Project](crash.aprx): Project used for creating maps.
