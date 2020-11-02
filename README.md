@@ -1,6 +1,6 @@
 # Self Organizing Maps
 ### Description
-<div style="text-align: justify"> The purpose of this project is to analyze vehichle crash data for spatial trends using ArcGIS Desktop and temporal trends using the sompy python library.</div>
+<div style="text-align: justify"> The purpose of this project is to analyze vehichle crash data for spatial trends using ArcGIS Desktop and temporal trends using self-organizing maps through the sompy python library.</div>
 
 ### Component Description
 - [Data](data): All data, including crash infromation from Polk and Scott Counties
